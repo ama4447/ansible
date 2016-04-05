@@ -7,4 +7,4 @@
     ntp_manage_config: true
 
   roles:
-    - ansible-role-ntp
+    - ansible
